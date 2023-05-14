@@ -1,0 +1,16 @@
+@import url("header.css");
+
+:root {
+    --fonte-principal: 'Rubik', sans-serif;
+    --cinza: hsl(229, 8%, 60%);
+    --azul-escuro: hsl(229, 31%, 21%);
+    --azul: hsl(231, 69%, 60%);
+    --vermelho: hsl(0, 94%, 66%);
+    --branco: white;
+}
+
+
+body {
+    font-family: var(--fonte-principal);
+    padding: 10px 20px 0 20px;
+}
