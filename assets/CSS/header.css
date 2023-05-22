@@ -12,7 +12,7 @@ header {
     left: 220px;
     top: 10px;
     background-color: var(--azul-escuro);
-    color: var(--branco)
+    color: var(--branco);
 }
 
 #menu {
@@ -23,6 +23,7 @@ header {
 #menu:checked ~ .lista__menu {
     display: flex;
 }
+
 
 .img__menu-hamburguer {
     display: flex;
