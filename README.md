@@ -1,2 +1,2 @@
-# Bookmark landing page master
+# Bookmark landing page
 
