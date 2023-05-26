@@ -30,4 +30,14 @@ header {
     flex-direction: row;
 }
 
+.bloco__azul {
+    background-color: var(--azul);
+    width: 50%;
+    height: 120px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+    margin: 50px 200px;
+}
+
 
